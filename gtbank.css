@@ -1,0 +1,28 @@
+#me{
+    position: absolute;
+    border: 20px solid rgb(216, 64, 9);
+    height: 500px;
+    width: 400px;
+    background-color: rgb(216, 64, 9);
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);    
+
+}
+#nav{
+    border: 100px solid white;
+    width: 30px;
+    height: 0px;
+    margin-left: 150px;
+    
+}
+
+#hey{
+    text-align: center;
+    font-size: 5em;
+    font-family: sans-serif;
+    color: whitesmoke;
+    font-weight: 900;
+    margin-top: 200px;
+    padding
+}
